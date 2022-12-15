@@ -1,0 +1,31 @@
+.solorojo{
+    color:red;
+}
+
+.rojoconamarillo{
+    color:red;
+    background-color: yellow;
+}
+
+.analucia{
+    background-color: aquamarine;
+    border: 10px darkturquoise;
+    border-radius: 10px;
+}
+
+.sofia{
+    color: rgb(75, 199, 17);
+    background-color: rgba(106, 243, 248, 0.555);
+    font-style: italic;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
+.esthefany{
+    color: aqua;
+    background-color: black;
+    border: 20px;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    border-radius: 5px;
+}
